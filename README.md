@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Random Joke Generator 😅
 
 This project is a simple web application that generates random jokes using the [Official Joke API](https://official-joke-api.appspot.com/random_joke). It's built with HTML, CSS, and JavaScript, and styled with the Poppins font.
@@ -45,5 +44,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out to me at [Gmail](mailto:shobhitkumar1437@gmail.com).
 
-# Random-Joke-Generator
->>>>>>> f41145de7ca12923ea8bd1bb4832260834894b21
