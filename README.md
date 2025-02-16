@@ -27,7 +27,7 @@ Click the "Generate" button to fetch and display a random joke. Enjoy the humor!
 
 ## Project Link
 
-You can view the project live [here]().
+You can view the project live [here](https://random-joke-setup.netlify.app/).
 
 
 ## License
